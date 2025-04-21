@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webclass6-react/static/css/main.716f7e31.css",
+    "main.js": "/webclass6-react/static/js/main.777fb8be.js",
+    "static/js/453.ed3810f9.chunk.js": "/webclass6-react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/webclass6-react/index.html",
+    "main.716f7e31.css.map": "/webclass6-react/static/css/main.716f7e31.css.map",
+    "main.777fb8be.js.map": "/webclass6-react/static/js/main.777fb8be.js.map",
+    "453.ed3810f9.chunk.js.map": "/webclass6-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716f7e31.css",
+    "static/js/main.777fb8be.js"
+  ]
+}
